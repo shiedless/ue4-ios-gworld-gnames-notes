@@ -205,4 +205,11 @@ pointer off in the chain or you fell into the anti-tamper trap above.
 
 ---
 
+<p align="center">
+  <sub><b>part 4 of 7</b> in the <a href="https://github.com/shiedless/ios-ue4-re">ios-ue4-re</a> series</sub><br>
+  <sub>← <a href="https://github.com/shiedless/arm64-ios-inline-hook-notes">arm64-ios-inline-hook-notes</a> · <a href="https://github.com/shiedless/ios-ue4-re">index</a> · <a href="https://github.com/shiedless/ue4-ios-fname-notes">ue4-ios-fname-notes</a> →</sub>
+</p>
+
+---
+
 <p align="center">— shiedless</p>
